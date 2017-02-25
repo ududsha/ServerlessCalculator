@@ -1,5 +1,5 @@
 # ServerlessCalculator
-This is a sample calculator app created using Auth0's webtask.io 
+This is a simple calculator app created using Auth0's webtask.io 
 
 How to use this calculator:
 1. Create a webtask.io account. 
